@@ -2,8 +2,6 @@
 
 A clean, feature-rich study task manager built with vanilla HTML, CSS, and JavaScript. No frameworks, no dependencies, no build step — just open `index.html` and go.
 
-![StudyFlow Preview](preview.png)
-
 ---
 
 ## Features
@@ -107,7 +105,3 @@ Pull requests are welcome! Some ideas for extensions:
 - A calendar/timeline view
 
 ---
-
-## License
-
-[MIT](LICENSE)
