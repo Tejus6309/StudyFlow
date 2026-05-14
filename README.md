@@ -142,10 +142,4 @@ All colours and design tokens are defined as CSS custom properties in `:root` an
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <p align="center">Made by Tejus Pathania</p>
